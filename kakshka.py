@@ -1,0 +1,1 @@
+print("David krasava")
